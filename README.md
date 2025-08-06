@@ -52,3 +52,12 @@ Strengthening your understanding of JSON formats
 Getting comfortable with real-world API integration
 
 Building lightweight tools with no dependencies
+
+
+
+
+## 🌱 Inspiration
+
+This project was inspired by the [GitHub Activity CLI Project]( https://roadmap.sh/projects/github-user-activity ) from [roadmap.sh](https://roadmap.sh).  
+It helped me practice working with public APIs, string manipulation, and building a clean command-line interface in Java without external libraries.
+
