@@ -2,6 +2,8 @@
 
 A simple command-line interface (CLI) application that fetches and displays the **recent public activity** of any GitHub user.
 
+https://roadmap.sh/projects/github-user-activity
+
 This project is built in **pure Java**, without using any external libraries or frameworks. It interacts directly with the [GitHub Events API](https://docs.github.com/en/rest/activity/events?apiVersion=2022-11-28) and parses the raw JSON response manually.
 
 ---
